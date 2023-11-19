@@ -1,0 +1,9 @@
+{
+    "Index": {
+        "home": "Início",
+        "aboutMe": "Sobre mim",
+        "projects": "Projetos",
+        "resume": "Currículo",
+        "locale": "{locale, select, en {Inglês} pt {Português (Brasil)} other {undefined}}"
+    }
+}
