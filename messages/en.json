@@ -4,6 +4,7 @@
         "aboutMe": "About me",
         "projects": "Projects",
         "resume": "Resume",
+        "contact": "Contact",
         "locale": "{locale, select, en {English} pt {Portuguese (Brazil)} other {undefined}}"
     }
 }

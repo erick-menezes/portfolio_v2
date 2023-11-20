@@ -45,6 +45,13 @@ export function NavbarSection({ hashName, onChangeHash }: NavbarSectionProps) {
             },
             {
                 id: 4,
+                name: t('contact'),
+                goTo: '/#contact',
+                hashName: '#contact',
+                externalLink: false,
+            },
+            {
+                id: 5,
                 name: t('resume'),
                 goTo: `/files/resume_${currentLocale ?? 'pt'}_${theme ?? 'light'}.pdf`,
                 hashName: null,
